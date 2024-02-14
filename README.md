@@ -8,8 +8,9 @@
 
 ***This project is for entertainment purposes only! The author is not responsible for anything!***
 
-
 ## Before
+
+**You Must have Blockchair API Key**
 
 1. Clone this repository
 
