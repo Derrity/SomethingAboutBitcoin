@@ -64,4 +64,4 @@ chmod +x checkbitbalance
 mv checkbitbalance ..
 
 cd ..
-echo -e "\033[0;32m Done! \033[0m Run ./server to start the server"
+echo -e "\033[0;32m Done! \033[0m Run ./checkbitbalance to start the server"
