@@ -4,8 +4,7 @@
 #include <future>
 #include <vector>
 #include <fstream>
-#include <GenerateMnmonic.h>
-#include <ProcessAddress.h>
+#include "generateAddress/main.hpp"
 #include <json.hpp>
 
 int successCount = 0;
